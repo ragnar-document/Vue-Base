@@ -41,7 +41,7 @@ vue serve
 
 #### 目录结构
 
-![](/Users/ragnar/Desktop/Vue/images/vue-1.png)
+![](https://github.com/ragnar-document/Vue-Base/blob/master/images/vue-1.png?raw=true)
 
 ##### 下一步删除掉多余我们不需要的东西保持干净的结构
 
@@ -66,7 +66,7 @@ export default {
 
 页面显示如下
 
-![](/Users/ragnar/Desktop/Vue/images/vue-2.png)
+![](https://github.com/ragnar-document/Vue-Base/blob/master/images/vue-2.png?raw=true)
 
 我们点击Home 或者About的时候This is an homne page 会进行一个改变这里涉及到一个知识点`router`
 
@@ -94,7 +94,7 @@ export default {
 
 #### 列表渲染 [传送门](https://cn.vuejs.org/v2/guide/list.html)
 
-![](/Users/ragnar/Desktop/Vue/images/vue-3.png)
+![](https://github.com/ragnar-document/Vue-Base/blob/master/images/vue-3.png?raw=true)
 
 我们使用了模版语法把data🀄️的字符串传送到了html中在网页上正常显示出来
 
@@ -104,7 +104,7 @@ export default {
 
 双向绑定，`v-model` 本质上不过是语法糖。它负责监听用户的输入事件以更新数据，并对一些极端场景进行一些特殊处理。
 
-![](/Users/ragnar/Desktop/Vue/images/vue-4.png)
+![](https://github.com/ragnar-document/Vue-Base/blob/master/images/vue-4.png?raw=true)
 
 #### `v-for/v-if/<tempalate> 的综合使用`
 
@@ -112,3 +112,4 @@ export default {
 
 ⚠️警告：[**永远不要把 v-if 和 v-for 同时用在同一个元素上。**](https://cn.vuejs.org/v2/style-guide/#%E9%81%BF%E5%85%8D-v-if-%E5%92%8C-v-for-%E7%94%A8%E5%9C%A8%E4%B8%80%E8%B5%B7-%E5%BF%85%E8%A6%81)
 
+![](https://github.com/ragnar-document/Vue-Base/blob/master/images/vue-5.png?raw=true)
